@@ -2,7 +2,7 @@ import os
 pil = 'y'
 while(pil=='y'):
     os.system("cls")
-    print("===============================")
+    prin("===============================")
     print("==    KALKULATOR SEDERHANA   ==")
     print("===============================")
     print("MENU-UTAMA : ")
