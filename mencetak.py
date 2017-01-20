@@ -13,6 +13,6 @@ Eksekusi = cnx.cursor()
 result = Eksekusi.fetchone()
 
 if result != 0:
-	prin('berhasil')
+	print('berhasil')
 else:
 	print('gagal')
